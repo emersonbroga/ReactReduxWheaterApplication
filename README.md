@@ -1,6 +1,10 @@
 # ReactReduxWheaterApplication
 
+![React+Redux](http://s3.emerson.link/prints/react_redux_linked_in.png)
+
 This is the result of the React course from [SpethenGrider](https://github.com/StephenGrider) on Udemy. 
+
+You can read more about it this project on [medium](https://medium.com/@emersonbroga/javascript-react-redux-c6278ff0d41e#.inxwfjih4) and also on [linkedin](https://www.linkedin.com/pulse/javascript-react-redux-emerson-carvalho).
 
 ### DEMO ###
 
@@ -24,3 +28,6 @@ First you'll need to add your two api keys to your project on ```/src/config/key
 ```
 
 Check it on your browser at http://localhost:8080/
+
+------
+Follow me on twitter [@emersonbroga](https://twitter.com/emersonbroga).
